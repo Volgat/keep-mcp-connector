@@ -1,0 +1,19 @@
+{
+  "name": "keep-highlights",
+  "version": "1.0.0",
+  "description": "Intelligently detect key moments, sudden actions, and semantic surprises in video and audio recordings.",
+  "author": {
+    "name": "KEEP Technologies",
+    "email": "support@skeepit.co",
+    "url": "https://skeepit.co"
+  },
+  "homepage": "https://skeepit.co",
+  "repository": "https://github.com/Volgat/keep-mcp-connector",
+  "license": "MIT",
+  "keywords": ["video", "audio", "highlights", "compression", "productivity", "multimodal"],
+  "mcpServers": {
+    "keep": {
+      "url": "https://api.skeepit.co/mcp"
+    }
+  }
+}
