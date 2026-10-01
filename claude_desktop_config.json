@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "keep-highlights": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://api.skeepit.co/mcp"
+      ]
+    }
+  }
+}

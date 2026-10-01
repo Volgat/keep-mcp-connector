@@ -1,0 +1,23 @@
+{
+  "name": "@skeepit/keep-mcp",
+  "version": "1.0.0",
+  "description": "Anthropic Claude & OpenAI MCP Server for KEEP Highlights Media Intelligence",
+  "main": "index.js",
+  "bin": {
+    "keep-mcp": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "anthropic",
+    "video",
+    "audio",
+    "highlights",
+    "summarizer"
+  ],
+  "author": "KEEP Technologies <support@skeepit.co>",
+  "license": "MIT",
+  "homepage": "https://skeepit.co",
+  "repository": "https://github.com/Volgat/keep-app"
+}
