@@ -10,9 +10,11 @@
   "homepage": "https://skeepit.co",
   "repository": "https://github.com/Volgat/keep-mcp-connector",
   "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
   "keywords": ["video", "audio", "highlights", "compression", "productivity", "multimodal"],
   "mcpServers": {
     "keep": {
+      "type": "http",
       "url": "https://api.skeepit.co/mcp"
     }
   }
