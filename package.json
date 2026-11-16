@@ -1,6 +1,6 @@
 {
   "name": "@skeepit/keep-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Anthropic Claude & OpenAI MCP Server for KEEP Highlights Media Intelligence",
   "keywords": [
     "mcp",
